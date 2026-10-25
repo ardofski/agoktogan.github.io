@@ -37,7 +37,7 @@ StyleFusion360 generates stylized 3D heads with a consistent appearance across v
 ## Geometry-Aware 3D Scene Completion
 
 **M.S. research · Bilkent University DLRLab · September 2025–present**  
-**Advisors:** Ayşegül Dündar and Duygu Ceylan
+**Advisors:** [Ayşegül Dündar](https://www.cs.bilkent.edu.tr/~adundar/) and [Duygu Ceylan](https://www.duygu-ceylan.com/)
 
 I study how to select informative views for completing partially observed 3D scenes. My work uses differentiable camera optimization to determine where an inpainting model should generate new content within generative world-model pipelines.
 
@@ -46,7 +46,7 @@ I study how to select informative views for completing partially observed 3D sce
 ## Refedit
 
 **Zero-Shot Reference-Based Image Editing · Bilkent University · 2024–2025**  
-**With:** Ayşegül Dündar
+**With:** [Ayşegül Dündar](https://www.cs.bilkent.edu.tr/~adundar/)
 
 I developed reference-based object insertion with automatic edit localization, without model fine-tuning, paired training data, or a user-provided mask. The project explored latent-space refinement to balance style transfer, background preservation, and reference fidelity.
 
